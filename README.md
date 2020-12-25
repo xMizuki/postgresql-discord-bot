@@ -2,7 +2,7 @@
 
 NodeJS v12 or higher
 
-PostgreSQL v12 or higher
+PostgreSQL v11 or higher
 
 
 # Starting bot:
